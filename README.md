@@ -1,7 +1,7 @@
 # Projeto_Final
 
 """
-Faca uma aplicacao que efetue as operac˜oes a seguir:
+Faca uma aplicacao que efetue as operacoes a seguir:
 1. O Portal de Dados Abertos do TCE-RS contem o Balancete de Despesa
 Consolidados 2022 no link (http://dados.tce.rs.gov.br/dados/municipal/balancete-despesa/2022.csv).
 2. Use o pacote Requests para armazenar em memoria baixar o arquivo do
@@ -16,5 +16,5 @@ em um arquivo denominado ”balancete.xlsx”, e
 para a variavel ”novo balancete”, e
 7. Finalizando a aplicac˜ao, usando o OpenPyXL, grave o conteudo da variavel
 ”novo balancete” no arquivo ”novo balancete.xlsx”
-Coloque seu codigo no Moodle em um arquivo compactado de extens˜ao.zip.
+Coloque seu codigo no Moodle em um arquivo compactado de extensao.zip.
 """
